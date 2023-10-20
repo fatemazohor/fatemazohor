@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Fatema Tuz Zohora
 #### Student of JEE at IDB-BISEW
-![Student of JEE at IDB-BISEW]()
+![Student of JEE at IDB-BISEW](https://github.com/fatemazohor/fatemazohor/blob/main/github%20banner.png)
 
 
 Skills: VUE JS / REACT / JS / HTML / CSS
