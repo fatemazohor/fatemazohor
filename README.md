@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Fatema Tuz Zohora
 #### Student of JEE at IDB-BISEW
-![Student of JEE at IDB-BISEW](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Student of JEE at IDB-BISEW]()
 
 
 Skills: VUE JS / REACT / JS / HTML / CSS
