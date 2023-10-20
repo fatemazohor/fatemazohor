@@ -14,5 +14,5 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatemazohor)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-stats-alpha.vercel.app/api?username={fatemazohor})  
+![GitHub stats](https://github-stats-alpha.vercel.app/api?username=fatemazohor)  
 
