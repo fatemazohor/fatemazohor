@@ -3,7 +3,7 @@
 ![Student of JEE at IDB-BISEW](https://github.com/fatemazohor/fatemazohor/blob/main/github%20banner.png)
 
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+
 
 - 🌱 I’m currently learning Spring Boot 
 - 💬 Ask me about JAVA 
