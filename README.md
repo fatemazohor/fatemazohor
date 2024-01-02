@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Fatema Tuz Zohora
+### Hi there 👋, I am Fatema Tuz Zohora
 #### Student of JEE at IDB-BISEW
 ![Student of JEE at IDB-BISEW](https://github.com/fatemazohor/fatemazohor/blob/main/github%20banner.png)
 
