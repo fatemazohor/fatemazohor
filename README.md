@@ -11,7 +11,7 @@
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/fatemazohor) 
-[<img src="Screenshot/Java.png" width="80" height="80">](svg/android.svg)
+[<img src="Screenshot/Java.png" width="80" height="80">](/svg/android.svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatemazohor)](https://github.com/anuraghazra/github-readme-stats)
 
