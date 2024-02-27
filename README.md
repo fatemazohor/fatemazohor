@@ -9,7 +9,7 @@
 - 💬 Ask me about JAVA 
 - 📫 How to reach me: fatematuzzohora289@gmail.com 
 
-[#Languages and Tools:](https://github.com/fatemazohor)
+# [Languages and Tools:](https://github.com/fatemazohor)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/fatemazohor) 
 [<img src="svg/html5.svg" width="40" height="40">](https://github.com/fatemazohor)
 [<img src="svg/css3.svg" width="40" height="40">](https://github.com/fatemazohor)
