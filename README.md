@@ -18,6 +18,7 @@
 [<img src="svg/oracle.svg" width="40" height="40">](https://github.com/fatemazohor)
 [<img src="svg/postgresql.svg" width="40" height="40">](https://github.com/fatemazohor)
 [<img src="https://github.com/fatemazohor/SwingSMEManagement/blob/main/Screenshot/mysql.png" width="40" height="40">](https://github.com/fatemazohor)
+[<img src="svg/hibernate.png" width="40" height="40">](https://github.com/fatemazohor)
 [<img src="svg/json.svg" width="40" height="40">](https://github.com/fatemazohor)
 [<img src="svg/java-original.svg" width="40" height="40">](https://www.java.com/en/)
 [<img src="https://github.com/fatemazohor/SwingSMEManagement/blob/main/Screenshot/Swing.png" width="40" height="40">](https://github.com/fatemazohor)
